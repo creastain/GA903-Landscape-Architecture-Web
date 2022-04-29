@@ -16,8 +16,8 @@ en: &DEFAULT_EN
     button: 走近园林
     buttonlink: "#portfolio"
 
-  services:
-    title: "Welcome!"
+  # services:
+  #   title: "Welcome!"
     # text: "Lorem ipsum"
     # section: services
     # list:
@@ -71,13 +71,13 @@ en: &DEFAULT_EN
   about:
     title: "关于我们"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "本网站是西方风景园林艺术史课程中思源湖底风景鉴赏小分队的课程项目，旨在建立一个分门别类、框架清晰、能帮助大家了解西方风景园林之美的空间。"
     section: about
 
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "" #"yes/no"  
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
@@ -93,7 +93,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "团队信息"
+    title: "团队成员"
     text: "Our amazing team!"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team

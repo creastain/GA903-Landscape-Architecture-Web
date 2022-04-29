@@ -19,7 +19,7 @@ en: &DEFAULT_EN
       section: about
     - title: "时间轴"
       section: timeline
-    - title: "团队信息"
+    - title: "团队成员"
       section: team
     - title: "联系我们"
       section: contact
