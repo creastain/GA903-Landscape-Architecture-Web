@@ -15,13 +15,13 @@ en: &DEFAULT_EN
     #   section: services
     - title: "欣赏园林"
       section: landscape
-    - title: "About"
+    - title: "关于我们"
       section: about
-    - title: "Timeline"
+    - title: "时间轴"
       section: timeline
-    - title: "Team"
+    - title: "团队信息"
       section: team
-    - title: "Contact"
+    - title: "联系我们"
       section: contact
     # - title: "Theme Source"
     #   url: https://github.com/raviriley/agency-jekyll-theme/
