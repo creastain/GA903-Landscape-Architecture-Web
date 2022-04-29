@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: 走近园林
     buttonlink: "#landscape"
 
-  services:
+  # services:
     # title: "Services"
     # text: "Lorem ipsum"
     # section: services
