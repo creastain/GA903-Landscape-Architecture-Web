@@ -13,12 +13,12 @@ en: &DEFAULT_EN
   nav:
     # - title: "Services"
     #   section: services
-    - title: "欣赏园林"
+    - title: "园林品鉴"
       section: portfolio
-    - title: "关于我们"
-      section: about
     - title: "时间轴"
       section: timeline
+    - title: "关于我们"
+      section: about
     - title: "团队成员"
       section: team
     - title: "联系我们"
@@ -34,25 +34,25 @@ en-GB:
 en-AU:
   <<: *DEFAULT_EN
 
-# Spanish
-# -------
-es: &DEFAULT_ES
-  nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
+# # Spanish
+# # -------
+# es: &DEFAULT_ES
+#   nav:
+#     - title: "Servicios"
+#       section: servicios
+#     - title: "Portafolio"
+#       section: portafolio
+#     - title: "Sobre Nosotros"
+#       section: nosotros
+#     - title: "Cronología"
+#       section: cronologia
+#     - title: "Equipo"
+#       section: equipo
+#     - title: "Contáctenos"
+#       section: contacto
+#     - title: "Fuente de la plantilla"
+#       url: https://github.com/raviriley/agency-jekyll-theme/
+# es-ES:
+#   <<: *DEFAULT_ES
+# es-CO:
+#   <<: *DEFAULT_ES
