@@ -74,23 +74,6 @@ en: &DEFAULT_EN
     body: "本网站是西方风景园林艺术史课程中思源湖底风景鉴赏小分队的课程项目<br/>旨在建立一个分门别类、框架清晰、能帮助大家了解西方风景园林之美的空间"
     section: about
 
-  # clients:
-  #   section: clients
-  #   max-height: 100px
-  #   horizontal-scrolling: "" #"yes/no"  
-  #   list:
-  #     - title: "envato"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/envato.jpg
-  #     - title: "designmodo"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/designmodo.jpg
-  #     - title: "themeforest"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/themeforest.jpg
-  #     - title: "Creative Market"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "团队成员"
