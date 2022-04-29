@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     # - title: "Services"
     #   section: services
     - title: "欣赏园林"
-      section: landscape
+      section: portfolio
     - title: "关于我们"
       section: about
     - title: "时间轴"
