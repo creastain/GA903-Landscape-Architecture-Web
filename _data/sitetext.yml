@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "欣赏园林"
-    text: "9个时期的风景园林样式"
+    text: "6个时期的西方风景园林样式"
     section: portfolio
     closebutton: "Close Project"
 
