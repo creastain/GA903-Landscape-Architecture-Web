@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "关于我们"
     text: "our story"
-    body: "本网站是西方风景园林艺术史课程中思源湖底风景鉴赏小分队的课程项目<br/>旨在建立一个分门别类、框架清晰、能帮助大家了解西方风景园林之美的空间"
+    body: "本网站是**西方风景园林艺术史**课程中**思源湖底风景鉴赏小分队**的课程项目<br/>旨在建立一个分门别类、框架清晰、能帮助大家了解**西方风景园林之美**的空间<br/>[项目程序地址](https://github.com/ArtistYusen/GA903-Landscape-Architecture-Web/)"
     section: about
 
 
