@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 古代造园时期
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/01-full.jpg
