@@ -10,6 +10,9 @@ caption:
   # subtitle: Illustration
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
+
+<body align="left">
+
 # HEAD 1
 ## HEAD 2
 ### HEAD 3
@@ -24,10 +27,5 @@ caption:
 - unordered list 2
 - unordered list 3
 
-![alt text](assets/img/portfolio/01-full.jpg "Image alt text")
-
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+</body>
 
