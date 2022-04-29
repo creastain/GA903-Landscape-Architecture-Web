@@ -16,8 +16,8 @@ en: &DEFAULT_EN
     button: 走近园林
     buttonlink: "#portfolio"
 
-  # services:
-    # title: "Services"
+  services:
+    title: "Welcome!"
     # text: "Lorem ipsum"
     # section: services
     # list:
