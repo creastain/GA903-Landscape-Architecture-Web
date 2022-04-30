@@ -128,7 +128,7 @@ en: &DEFAULT_EN
     submit: "发送"
 
   footer:
-    legal: "**参考资料及版权声明**"
+    legal: "参考资料及版权声明"
     social:
       # - url: https://twitter.com
       #   icon: "fab fa-twitter"
