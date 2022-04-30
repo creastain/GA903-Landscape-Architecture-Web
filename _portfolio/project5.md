@@ -1,11 +1,13 @@
 ---
-title: xx时期
-image: assets/img/portfolio/01-full.jpg
+title: 自然风景式造园时期
+image: assets/img/portfolio/05-full.jpg
 
 caption:
-  title: xx时期
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: 自然风景式造园时期
+  thumbnail: assets/img/portfolio/05-full.jpg
 ---
 
-[✨点我走进xx造园时期✨](./5)
+页首图：霍华德庄园
+
+[✨点我走进自然风景式造园时期✨](./5)
 

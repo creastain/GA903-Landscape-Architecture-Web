@@ -1,10 +1,12 @@
 ---
-title: xx时期
-image: assets/img/portfolio/01-full.jpg
+title: 城市公园与现代景观
+image: assets/img/portfolio/06-full.jpg
 
 caption:
-  title: xx时期
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: 城市公园与现代景观
+  thumbnail: assets/img/portfolio/06-full.jpg
 ---
 
-[✨点我走进xx造园时期✨](./6)
+页首图：纽约中央公园
+
+[✨点我走进城市公园与现代景观✨](./6)
