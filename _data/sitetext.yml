@@ -33,40 +33,50 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "园林品鉴"
-    text: "西方风景园林样式变迁"
+    text: "6个时期西方风景园林样式"
     section: portfolio
     closebutton: "关闭"
 
   timeline: 
     title: "时间轴"
-    text: "Lorem ipsum timeline"
+    text: "西方风景园林样式变迁"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "古代造园时期"
+        year: "2700B.C.-500B.C."
+        desc: "埋藏千年的伟大"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "中世纪造园时期"
+        year: "5A.D.-14A.D."
+        desc: "黑暗时期的灿烂烟火"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "文艺复兴造园时期"
+        year: "14A.D.-17A.D."
+        desc: "无拘无束的幻想"
         image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        alt: 
+        - title: "古典主义造园时期"
+        year: "16A.D.-18A.D."
+        desc: "征服自然之乐"
         image: assets/img/timeline/4.jpg
         alt:
+      - title: "自然风景式造园时期"
+        year: "18A.D.-19A.D."
+        desc: "纯净浪漫的田园风光"
+        image: assets/img/timeline/5.jpg
+        alt: 
+      - title: "城市公园与现代景观"
+        year: "19A.D.-至今"
+        desc: "现代主义与新思潮"
+        image: assets/img/timeline/6.jpg
+        alt:
         # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+        align: left
+    end: "当代<br/>园林<br/>时期"
 
   about:
     title: "关于我们"

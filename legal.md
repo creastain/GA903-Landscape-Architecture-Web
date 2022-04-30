@@ -12,6 +12,7 @@ title: Privacy Policy
 
 - 本网站中使用的图片均来源于网络，版权归原作者所有。
 - 本网站中对各个时期风景园林样式介绍的文字性内容主要参考自[维基百科](https://en.wikipedia.org/wiki/Main_Page)、[百度百科](https://baike.baidu.com/)，我们在此基础上做了一些删改。
+- 时间轴及不同时期风景园林样式地划分参考自小于老师的课件。
 - 感谢[Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme)提供的精美主题。
 
 ## 联系我们

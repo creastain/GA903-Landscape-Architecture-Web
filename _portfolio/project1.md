@@ -7,10 +7,10 @@ image: assets/img/portfolio/01-full.jpg
 caption:
   title: 古代造园时期
   # subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/portfolio/01-full.jpg
 ---
 
 页首图：庞贝古城
 
-[✨点我走进古代造园时期✨](./1)
+### [✨点我走进古代造园时期✨](./1)
 
