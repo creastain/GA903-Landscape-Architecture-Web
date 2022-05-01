@@ -7,6 +7,6 @@ caption:
   thumbnail: assets/img/portfolio/06-full.jpg
 ---
 
-页首图：纽约中央公园
+封面图：纽约中央公园
 
 ### [✨点我走进城市公园与现代景观✨](./6)

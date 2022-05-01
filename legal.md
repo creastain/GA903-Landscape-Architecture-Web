@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">参考资料及版权声明</h2>
+	<h1 class="section-heading text-uppercase">参考资料及版权声明</h1>
 </div>
 
 本网站（{{ site.title }}）是西方风景园林艺术史课程中思源湖底风景鉴赏队的课程项目，旨在建立一个分门别类、框架清晰、能帮助大家了解西方风景园林之美的空间。

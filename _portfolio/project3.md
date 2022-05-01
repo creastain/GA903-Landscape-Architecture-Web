@@ -7,7 +7,7 @@ caption:
   thumbnail: assets/img/portfolio/03-full.jpg
 ---
 
-页首图：郎特别墅
+封面图：郎特别墅
 
 ### [✨点我走进文艺复兴造园时期✨](./3)
 

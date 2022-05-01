@@ -7,6 +7,6 @@ caption:
   thumbnail: assets/img/portfolio/04-full.jpg
 ---
 
-页首图：海伦豪森宫苑
+封面图：海伦豪森宫苑
 
 ### [✨点我走进古典主义造园时期✨](./4)

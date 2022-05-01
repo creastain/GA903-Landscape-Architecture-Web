@@ -76,7 +76,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: left
-    end: "当代<br/>园林<br/>时期"
+    end: "当代<br/>造园<br/>时期"
 
   about:
     title: "关于我们"

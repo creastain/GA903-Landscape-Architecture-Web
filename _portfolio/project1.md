@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/01-full.jpg
 ---
 
-页首图：庞贝古城
+封面图：庞贝古城
 
 ### [✨点我走进古代造园时期✨](./1)
 
